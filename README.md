@@ -77,7 +77,7 @@ DATASET or DS     | Writes a record containing (in addition to the OUTGRP record
 
 ## Parameters for despooler SRSGENER
 
-The following options can be specified on the PPARM= keyword if default processing (i.e. no special despooler program, wich means SRSGENER) is in effect.
+The following options can be specified on the *PPARM* keyword if default processing (i.e. no special despooler program, wich means *SRSGENER*) is in effect.
 
 Option            | Description   | Default   
 ------------------|---------------|---------
