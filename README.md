@@ -82,7 +82,7 @@ The following options can be specified on the PPARM= keyword if default processi
 Option            | Description   | Default   
 ------------------|---------------|---------
 OUTFILE=*file*    | Specifies the DDNAME of the data set to write spool data records to | *SYSUT2* 
-DEFER_OPEN=*yn*   | Specifies whether the OUTFILE= file should be opened at SRS initialization or after the first record is despooled.  If 'YES' is specified and the OUTFILE= file is a new data set that does not specify LRECL information, SRS will use the record length of the first record despooled as the LRECL.  If 'NO', LRECL must be specified on the OUTFILE= file or a S013-34 abend will occur. | *YES*
+DEFER_OPEN=*yn*   | Specifies whether the OUTFILE= file should be opened at SRS initialization or after the first record is despooled.  If 'YES' is specified and the *OUTFILE=file* is a new data set that does not specify LRECL information, SRS will use the record length of the first record despooled as the LRECL.  If 'NO', LRECL must be specified on the *OUTFILE=file* or a S013-34 abend will occur. | *YES*
 
 # SYSOUT Application Program Interface (SAPI)
 See https://www.ibm.com/support/knowledgecenter/en/SSLTBW_2.1.0/com.ibm.zos.v2r1.ieaf200/sapi.htm for a complete documentation
