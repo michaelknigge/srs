@@ -32,8 +32,3 @@ NOTES:
 
 - SRS 1.2.1 was assembled on z/OS 1.6.  The Linklib shipped should be
   downward and upward compatible with prior and future releases.
-
-- If you install SRS, please send a note to
-  ddanner9@yahoo.com so I can add you to the distribution
-  list for future product upgrades.  Of course comments and/or
-  enhancement requests are also welcome!

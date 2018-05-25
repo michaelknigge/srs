@@ -37,9 +37,9 @@ NOTES:
 - SRS 1.3.0 was assembled on z/OS 1.9.  The Linklib shipped should be
   upward compatible with future releases.
 
-- If you install SRS, please send a note to
-  ddanner9@yahoo.com so I can add you to the distribution
-  list for future product upgrades.  Of course comments and/or
-  enhancement requests are also welcome!
+- SRS was originally written by Dave Danner but is now maintained by
+  Michael Knigge. If you have any comments, fixes, enhancements or
+  bug reports, please visit the SRS GitHub page and open an issue or.
+  The URL is https://github.com/michaelknigge/srs
 
 - SRS is available for free download at http://cbttape.org/
