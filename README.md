@@ -20,7 +20,7 @@ SRS was developed by Dave Danner but he's no longer in a position to
 do any changes to SRS. Dave agreed that I take over the project.
 
 # Download
-SRS is distributed as an XMIT (as usual for z/OS binaries). You can get it
+SRS is distributed as a XMIT file (as usual for z/OS binaries). You can get it
 from the [CBT Tape](http://www.cbttape.org/) - see [File #790](http://www.cbttape.org/ftp/cbt/CBT790.zip).
 This file will contain compiled load modules and the source code. The most actual version of
 SRS is here at GitHub (but no load modules).
